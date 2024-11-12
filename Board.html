@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="Board.css" rel="styleSheet" />
+
+</head>
+
+<body onload="beginGame()">
+    <script src="Board.js"> </script>
+    <!-- <div>
+        <img src="תמונות/boardpng.jpg" title="board" />
+    </div> -->
+    <div id="boardId"></div>
+    
+   <button class="dirbut"  id="up" onclick="Up()"><img src="תמונות/up.png"></button>
+    <button class="dirbut" id="right" onclick="Right()"><img src="תמונות/right.png"></button>
+    <button class="dirbut" id = "down" onclick="Down()"><img src="תמונות/down.png"></button>
+    <button class="dirbut" id="left" onclick="Left()"><img src=תמונות/left.png></button> 
+    <button class="dirbut"  id="rivki_hayafa" onclick="send()"> 🤔מצב הרוח</button>
+    <button class="class2" id="loaclstorage" onclick="SaveDatails(MatBoard)">שמור לוח</button>
+
+</body>
+
+</html>

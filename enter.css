@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+   background-color:black;
+}
+#name {
+    height: 60px;
+    width: 250px;
+    background-color:black;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 10px;
+    font-size: 30px;
+    font-family: 'Arial Rounded MT';
+    color: red;
+}
+
+#password {
+    height: 60px;
+    width: 250px;
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 10px;
+    font-size: 30px;
+    font-family: 'Arial Rounded MT';
+    color:deepskyblue; 
+}
+
+h3 {
+    color: white;
+    font-family:'Berlin Sans FB';
+    font-size:60px;
+}
+
+#goplay {
+    height: 210px;
+    width: 196px;
+    background-color: red;
+    border-radius: 10px;
+    border-color:white;
+    border-width:10px;
+    background-image: url('תמונות/rhlb.png');
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+

@@ -1,0 +1,100 @@
+{
+   "cars": [
+           {
+            "id": "red",
+            "boardTop": 200,
+            "boardLeft": 0,
+            "direction": 0,
+            "sumSquares": 2,
+            "color": "red"
+          },
+
+          {
+            "id": "yellow",
+            "boardTop": 0,
+            "boardLeft": 0,
+            "direction": 1,
+            "sumSquares": 2,
+            "color": "yellow"
+          },
+         
+          {
+            "id": "mediumslateblue",
+            "boardTop": 300,
+            "boardLeft": 0,
+            "direction": 0,
+            "sumSquares": 3,
+            "color": "mediumslateblue"
+          },
+          {
+            "id": "indianred",
+            "boardTop": 400,
+            "boardLeft": 200,
+            "direction": 1,
+            "sumSquares": 2,
+            "color": "indianred"
+          },
+          {
+            "id": "rgb(15, 238, 238)",
+            "boardTop": 500,
+            "boardLeft": 0,
+            "direction": 0,
+            "sumSquares": 2,
+            "color": "rgb(15, 238, 238)"
+          },
+          {
+            "id": "lawngreen",
+            "boardTop": 0,
+            "boardLeft": 300,
+            "direction": 0,
+            "sumSquares": 3,
+            "color": "lawngreen"
+          },
+          {
+            "id": "rgb(176, 16, 240)",
+            "boardTop": 100,
+            "boardLeft": 300,
+            "direction": 1,
+            "sumSquares": 2,
+            "color": "rgb(176, 16, 240)"
+          },
+          {
+            "id": "rgb(249, 11, 102)",
+            "boardTop": 100,
+            "boardLeft": 500,
+            "direction": 1,
+            "sumSquares": 3,
+            "color": "rgb(249, 11, 102)"
+          },
+          {
+            "id": "grey",
+            "boardTop": 200,
+            "boardLeft": 400,
+            "direction": 1,
+            "sumSquares": 2,
+            "color": "grey"
+          },
+          {
+            "id": "rgb(255, 82, 14)",
+            "boardTop": 400,
+            "boardLeft": 400,
+            "direction": 0,
+            "sumSquares": 2,
+            "color": "rgb(255, 100, 14)"
+          },
+          {
+            "id": "mediumvioletred",
+            "boardTop": 500,
+            "boardLeft": 300,
+            "direction": 0,
+            "sumSquares": 2,
+            "color": "mediumvioletred"
+          }
+        ],
+        "squersize": 100,
+        "amountsquer": 36,
+        "exit": 500
+      }
+    
+  
+  

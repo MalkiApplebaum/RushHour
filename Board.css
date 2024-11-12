@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+   background-color:aquamarine;
+}
+#boardId {
+    background-color:black;
+    margin-left: 33%;
+    margin-top: 5%;
+    position: relative;
+    }
+
+.selected {
+    border: 1px solid red;
+}
+.dirbut{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    margin-left: 0.8%;
+
+
+}
+.car
+{
+    position: absolute;
+}
+.selected{
+    border-color: teal;
+    border-width: 10px;
+    border-radius: 5%;
+    
+}
+.rivki_hayafa{
+    margin-left: 35%;
+    margin-top:  100px;
+    width: 100px;
+    height: 70px;
+}
+.class2{
+    position: absolute;
+    top: 730px;
+    left: 65%;
+    height: 50px;
+    width: 70px;
+}
